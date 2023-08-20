@@ -1,0 +1,15 @@
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\bin\Debug\net6.0\liste-uygulamasi.exe
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\bin\Debug\net6.0\liste-uygulamasi.deps.json
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\bin\Debug\net6.0\liste-uygulamasi.runtimeconfig.json
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\bin\Debug\net6.0\liste-uygulamasi.dll
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\bin\Debug\net6.0\liste-uygulamasi.pdb
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.AssemblyInfo.cs
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.dll
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\refint\liste-uygulamasi.dll
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.pdb
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\liste-uygulamasi.genruntimeconfig.cache
+C:\Users\efe\Desktop\ASP.NET\liste-uygulamasi\liste-uygulamasi\obj\Debug\net6.0\ref\liste-uygulamasi.dll
